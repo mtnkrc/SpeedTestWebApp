@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KaracaBesik_project1.props" />
+</Project>
